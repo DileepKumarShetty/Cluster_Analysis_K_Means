@@ -1,2 +1,3 @@
 # Cluster_Analysis_K_Means
 Cricket Player Segmentation: Unveiling Distinct Roles through Clustering Analysis
+Out Comes:Using K-Means clustering, this project segmented cricket players based on various performance metrics, finding two optimal clusters: bowlers and batsmen. Bowlers had higher wickets but lower scores and averages, while batsmen excelled in scoring runs and hitting sixes. The silhouette-score method confirmed the validity of these clusters. This approach aids in understanding players' distinct skills, enhancing strategic decision-making in team selection and development. The segmentation provides valuable insights into the diverse skill sets of cricket players.
